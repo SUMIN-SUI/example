@@ -1,4 +1,4 @@
-하하핫
+하하핫gk
 [ jQuery ] <- Q만 대문자
 
 1. jQuery 개요
